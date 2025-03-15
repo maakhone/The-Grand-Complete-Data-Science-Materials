@@ -2,7 +2,7 @@ Here's a comprehensive list of interview questions on data structures and algori
 
 **1. Reverse a String**
 
-
+ 
 - **Question**: Reverse a given string.
 - **Answer**:
 
